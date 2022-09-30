@@ -1,0 +1,8 @@
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
+
+.dropdown-toggle:hover {
+    list-style: none;
+    text-decoration: none;
+}
